@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://buhuio.github.io/hugo-dev/</loc>
-    <lastmod>2024-08-26T17:14:47+08:00</lastmod>
+    <lastmod>2024-08-26T19:34:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,11 +20,11 @@
                 href="https://buhuio.github.io/hugo-dev/"
                 />
   </url><url>
-    <loc>https://buhuio.github.io/hugo-dev/p/myfirstblong/</loc>
-    <lastmod>2024-08-26T17:14:47+08:00</lastmod>
+    <loc>https://buhuio.github.io/hugo-dev/p/newnewnew/</loc>
+    <lastmod>2024-08-26T19:34:07+08:00</lastmod>
   </url><url>
     <loc>https://buhuio.github.io/hugo-dev/post/</loc>
-    <lastmod>2024-08-26T17:14:47+08:00</lastmod>
+    <lastmod>2024-08-26T19:34:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,9 @@
                 hreflang="zh-cn"
                 href="https://buhuio.github.io/hugo-dev/post/"
                 />
+  </url><url>
+    <loc>https://buhuio.github.io/hugo-dev/p/myfirstblong/</loc>
+    <lastmod>2024-08-26T17:14:47+08:00</lastmod>
   </url><url>
     <loc>https://buhuio.github.io/hugo-dev/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
